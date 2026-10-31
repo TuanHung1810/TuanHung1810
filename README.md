@@ -4,7 +4,7 @@
 - Hometown: Thanh Hoa.
 - Address: An Hoi Tay Ward, Ho Chi Minh city.
 - Email: tuanhung18102002@gmail.com.
-- Interest: Reading books, Gaming, Listenning to music, Traveling.
+- Interest: Reading books, Gaming, Music, Traveling.
 - Programming: Java, Python.
 - Machine Learning: Classication, Regression.
 - Deep Learning: CNN, RCNN, LTSM, YOLO, NLP.
